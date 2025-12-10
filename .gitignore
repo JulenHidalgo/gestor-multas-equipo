@@ -1,0 +1,9 @@
+# Información del dispositivo
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Archivos csv no subidos por privacidad
+data/jugadores.csv
+data/motivos.csv
+data/multas.csv
